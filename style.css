@@ -1,9 +1,12 @@
 @import "reset.css";
+/*components*/
+@import "components/menu.css";
 
 /* screen */
 @import "screens/index.css ";
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: sans-serif;
   height: 100vh;
   background-color: #0d1218;
+  box-sizing: border-box;
 }
