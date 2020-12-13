@@ -1,0 +1,9 @@
+@import "reset.css";
+
+/* screen */
+@import "screens/index.css ";
+body {
+  font-family: "Open Sans", sans-serif;
+  height: 100vh;
+  background-color: #0d1218;
+}
