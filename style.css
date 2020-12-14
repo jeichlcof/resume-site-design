@@ -1,6 +1,7 @@
 @import "reset.css";
 /*components*/
 @import "components/menu.css";
+@import "components/side-bar.css";
 
 /* screen */
 @import "screens/index.css ";

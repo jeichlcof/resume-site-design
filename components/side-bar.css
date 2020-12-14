@@ -1,0 +1,9 @@
+.side-bar {
+  width: 50px;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: linear-gradient(rgb(77, 77, 235), rgb(0, 41, 65));
+  opacity: 0.3;
+}
